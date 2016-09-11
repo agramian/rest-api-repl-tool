@@ -4,6 +4,7 @@
 Please use the issues tab for any discussion, suggestions, feature requests, bugs, etc. related to the app.
 
 ## Planned future enhancements
+- localized strings
 - ability to store a list of common key value pairs to load from
 - static navigation bar for tablets
 - cookies
