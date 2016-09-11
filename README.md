@@ -1,5 +1,8 @@
 # REST API REPL Tool
 
+## Play store link
+https://play.google.com/store/apps/details?id=com.abtingramian.android.rest_api_repl_tool
+
 ## Help and feedback
 Please use the issues tab for any discussion, suggestions, feature requests, bugs, etc. related to the app.
 
